@@ -1,8 +1,4 @@
-## README.md File for Purple Fashion E-commerce Store
 
-**`README.md`**
-
-```markdown
 # 🛍️ Purple Fashion - E-commerce Store
 
 A modern, fully functional e-commerce fashion store built with Laravel 10, Bootstrap 5, and MySQL. Features a beautiful purple and white theme, complete admin panel, shopping cart, order management, and more.
